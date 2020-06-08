@@ -1,0 +1,140 @@
+.navbar-brand
+{
+align-self: center;
+}
+.button
+{
+	border: none;
+}
+.pic
+{
+
+	width: 30vw;
+}
+
+.ad
+{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  width: 30%;
+     border-radius: 5px;
+    color: #35eea4;
+margin-top: 2vh;
+}
+.col-sm
+{
+	padding:20px;
+	font-size: 14px;
+	font-family:  "Playfair Display", serif;
+	text-align: center;
+
+}
+.footerTwo
+{
+	font-size: 14px;
+	font-family:  "Playfair Display", serif;
+	text-align: right;
+	position: relative;
+	bottom: 40px;
+	padding-top: 10px;
+}
+.footerOne
+{
+	font-size: 14px;
+	font-family: "Playfair Display";
+	font-weight: bolder;
+}
+.Thumbnails
+{
+	padding: 20px;
+	}
+	
+
+.image
+	{
+       padding-left: 5px;
+
+}
+.img
+{
+	position: relative;
+	top: 80px;
+	padding-right: 150px;
+	padding-left: 180px;
+	padding-bottom: 80px;
+
+}
+.logoName
+{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 50px;
+	font-family: "Playfair Display";
+
+}
+.lambo
+{
+	font-weight: bolder;
+	padding-left: 580px;
+	font-family: "Playfair Display";
+
+
+}
+.About
+{
+
+	font-size: 25px;
+	font-weight: bolder;
+	text-align: center;
+	font-family: "Playfair Display";
+
+}
+.CarImage
+{
+	width: 600px;
+	padding-right: 40px;
+	}
+.cart
+{
+	width: 40px;
+
+	}
+.img-container
+{
+	text-align: center;
+}
+.cartNames
+{
+	font-size: 25px;
+	font-weight: bolder;
+	padding-left: 100px;
+	font-family: "Playfair Display";
+
+
+}
+.Huracan
+{
+	font-size: 25px;
+	font-family: "Playfair Display";
+	text-align: right;
+}
+.Pay
+{
+	text-align: center;
+	padding-right: 20px;
+}
+.Name
+{
+	padding-left:50px;
+}
+.button:hover
+{
+	color: blue;
+
+}
+.cars
+{
+	width: 400px;
+}
